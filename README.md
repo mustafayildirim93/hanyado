@@ -2,7 +2,7 @@
 
  Merhabalar,
 
-Aşağıdaki listeye göre herkes sıra ile katkılarını yapacak. Her katkı yapan, bu README.md dosyasında kendi isminin yanına OK yazacak. 
+Aşağıdaki listede herkes düzenleme yapacak. Her katkı yapan, bu README.md dosyasında kendi isminin yanına OK yazacak. 
 
  1. Sinan Hanay - OK
  2. Ahmet Burak Gözel
