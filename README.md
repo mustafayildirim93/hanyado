@@ -7,7 +7,7 @@ Aşağıdaki listeye göre herkes sıra ile katkılarını yapacak. Her katkı y
  1. Sinan Hanay - OK
  2. Ahmet Burak Gözel
  3. Ahmet Kar
- 4. Asım Burak Gündüz
+ 4. Asım Burak Gündüz - OK
  5. Batuhan aydın
  6. Beyza Parlak
  7. Cevriye Efe
