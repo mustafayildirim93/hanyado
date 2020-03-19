@@ -6,7 +6,7 @@ Aşağıdaki listede herkes düzenleme yapacak. Her katkı yapan, bu README.md d
 
  1. Sinan Hanay - OK
  2. Ahmet Burak Gözel
- 3. Ahmet Kar
+ 3. Ahmet Kar - OK
  4. Asım Burak Gündüz - OK
  5. Batuhan aydın
  6. Beyza Parlak
