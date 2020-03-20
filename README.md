@@ -5,7 +5,7 @@
 Aşağıdaki listede herkes düzenleme yapacak. Her katkı yapan, bu README.md dosyasında kendi isminin yanına OK yazacak. 
 
  1. Sinan Hanay - OK
- 2. Ahmet Burak Gözel
+ 2. Ahmet Burak Gözel - OK
  3. Ahmet Kar - OK
  4. Asım Burak Gündüz - OK
  5. Batuhan Aydın - Ok
