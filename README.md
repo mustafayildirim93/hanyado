@@ -10,7 +10,7 @@ Aşağıdaki listede herkes düzenleme yapacak. Her katkı yapan, bu README.md d
  4. Asım Burak Gündüz - OK
  5. Batuhan Aydın - Ok
  6. Beyza Parlak
- 7. Cevriye Efe
+ 7. Cevriye Efe -OK
  8. Hande
  9. Hasan Hüseyin Turan
  10. Muhammed Fatih Kılıç - OK
