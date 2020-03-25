@@ -11,7 +11,7 @@ Aşağıdaki listede herkes düzenleme yapacak. Her katkı yapan, bu README.md d
  5. Batuhan Aydın - Ok
  6. Beyza Parlak
  7. Cevriye Efe -OK
- 8. Hande
+ 8. Hande - OK
  9. Hasan Hüseyin Turan
  10. Muhammed Fatih Kılıç - OK
  11. Mustafa Taşçı - OK
