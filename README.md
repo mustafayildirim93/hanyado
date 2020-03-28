@@ -15,7 +15,7 @@ Aşağıdaki listede herkes düzenleme yapacak. Her katkı yapan, bu README.md d
  9. Hasan Hüseyin Turan
  10. Muhammed Fatih Kılıç - OK
  11. Mustafa Taşçı - OK
- 12. Mustafa Yıldırım
+ 12. Mustafa Yıldırım - OK
  13. Ömer Faruk Topaloğlu - OK
  14. Rafet Efe GAZANFER - OK
  15. Sibel Çakmak-OK
